@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zoq:home|Door43 (zoq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zoq|d43-zoq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zoq/archive/master.zip|d43-zoq.zip]]
+
+**Recent Changes**
+{{changes>ns = zoq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zoq|Ethnologue data]]
+
